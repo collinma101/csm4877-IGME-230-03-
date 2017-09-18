@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:The Heart of Iron}
+# The Heart of Iron
 ## I. High Concept
 The Heart of Iron is a thriling new puzzle adventure game is Minecraft meets steampunk. Take the role of Shinra Aki, a young girl on a desperate mission to discover her family's dark history. With nothing but her father's amulet;  build, break, and battle your way to the Heart of Iron, a mythical artifact said to grant its user the power to control the world.
 ## II. Genre
@@ -20,6 +18,3 @@ None yet
 Not sure what external libraries I will use yet
 # IX. About the Developer
 My name is Collin Ma, I am a 2nd Year GDD Major, and I'm learning Unity, Maya and C#. My interests are graphic design and story development.
-]]></content>
-  <tabTrigger>GameProposal</tabTrigger>
-</snippet>
