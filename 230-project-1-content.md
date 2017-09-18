@@ -16,5 +16,5 @@ The player controls Aki through the keyboard and mouse. The entire goal of the g
 None yet
 ## VIII. Other
 Not sure what external libraries I will use yet
-# IX. About the Developer
+## IX. About the Developer
 My name is Collin Ma, I am a 2nd Year GDD Major, and I'm learning Unity, Maya and C#. My interests are graphic design and story development.
